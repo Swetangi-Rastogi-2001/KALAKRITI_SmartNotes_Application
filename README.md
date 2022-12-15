@@ -1,0 +1,1 @@
+# KALAKRITI_SmartNotes_Application
